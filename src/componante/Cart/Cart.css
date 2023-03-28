@@ -1,7 +1,12 @@
 .cart{
-    background-color: rgba(255, 127, 80, 0.593);
+    background-color:#ffe1b3dc;
     padding: 25px;
     margin: 0px 10px;
     border-radius: 5px;
+    position: sticky;
+    top:0;
 
+}
+.cart p{
+    font-size: 17px;
 }
