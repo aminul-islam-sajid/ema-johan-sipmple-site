@@ -6,6 +6,7 @@ import './Product.css';
 const Product = (props) => {
     const {img, name, seller, quantity, price,ratings} = props.product;
     const handleAddToProduct = props.handleAddToProduct;
+    console.log(props)
      
     
 
